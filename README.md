@@ -14,13 +14,24 @@ Billing Integration: Seamless integration with Stripe for secure payments.
 ## Prerequisites
 Ensure you have the following installed:
 
-Node.js (v16+ recommended)
-npm or Yarn
-Stripe account for API keys
+Node.js (v16+ recommended) ,npm or Yarn, Stripe account for API keys
 
 ## Installation
 
-First, run the development server:
+1. Clone the repository using Git
+
+```bash
+git clone https://github.com/RitamPal26/scrape-flow.git
+cd scrape-flow
+```
+
+2. Install the dependencies
+
+```bash
+npm install --legacy-peer-deps
+```
+
+3. Run the development server:
 
 ```bash
 npm run dev
@@ -32,7 +43,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
