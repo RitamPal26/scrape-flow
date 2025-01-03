@@ -13,8 +13,8 @@ import ReactCountupWrapper from "@/components/ReactCountUpWrapper";
 
 export default function UserAvailableCreditsBadge() {
   const query = useQuery({
-    queryKey: ["user-available-credits"],
-    queryFn: () => getAvailableCredits,
+    queryKey: ["userAvailableCredits"],
+    queryFn: () => getAvailableCredits(),
     refetchInterval: 30 * 1000, // 30 seconds
   });
 
