@@ -1,24 +1,24 @@
 
-## FlowScrapper
+# FlowScrapper
 
 A comprehensive web application for data scraping and analysis, featuring a robust billing system powered by Stripe for credit management. FlowScrapper allows users to efficiently scrape, process, and analyze data with customizable packages tailored to their needs.
 
-# Features
+## Features
 
 Data Scraping: Extract data from various sources with high precision.
 Data Analysis: Process and analyze scraped data directly within the platform.
 Billing Integration: Seamless integration with Stripe for secure payments.
 
-## Getting Started
+# Getting Started
 
-# Prerequisites
+## Prerequisites
 Ensure you have the following installed:
 
 Node.js (v16+ recommended)
 npm or Yarn
 Stripe account for API keys
 
-# Installation
+## Installation
 
 First, run the development server:
 
