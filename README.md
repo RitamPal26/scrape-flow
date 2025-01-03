@@ -43,6 +43,10 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ![Screenshot (39)](https://github.com/user-attachments/assets/c5df81eb-fc23-4874-902c-d3fd56e86edf)
 
+![Screenshot (42)](https://github.com/user-attachments/assets/38ea600e-4253-47da-aa50-7a2d1c9d88e4)
+
+![Screenshot (43)](https://github.com/user-attachments/assets/3c84a315-36f7-41c8-b6ac-6f72048a76ed)
+
 ![Screenshot (40)](https://github.com/user-attachments/assets/d5d8708b-5a1b-46fa-8d70-3ecaeb7df056)
 
 ![Screenshot (41)](https://github.com/user-attachments/assets/7455e4bf-7869-4458-a21b-0bd7c81c09fc)
